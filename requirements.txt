@@ -1,6 +1,4 @@
-streamlit
+streamlit>=1.20
 pandas
-matplotlib
-numpy
-python-dateutil
-pillow
+plotly
+openpyxl
